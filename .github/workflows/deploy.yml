@@ -1,17 +1,25 @@
 name: Коменнтатотр
 
 on:
-  pull_request:
-    types: [opened, synchronize]
+  push:
+    branches:
+      - '**'  # Это указывает на все ветки
 
 jobs:
-  comment:
+  post-comment:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Add comment with widget link
-      uses: peter-evans/create-or-update-comment@v1
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Get commit message
+      id: get_commit
+      run: echo "::set-output name=message::$(git log -1 --pretty=format:'%s')"
+
+    - name: Post comment
+      uses: peter-evans/commit-comment@v1
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        issue-number: ${{ github.event.pull_request.number }}
-        body: "комент 123"
+        token: ${{ secrets.TOKEN }}
+        body: |
+          Commit message: ${{ steps.get_commit.outputs.message }}
