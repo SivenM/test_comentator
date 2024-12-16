@@ -21,5 +21,6 @@ jobs:
       uses: peter-evans/commit-comment@v1
       with:
         token: ${{ secrets.TOKEN }}
-        body: |
-          Commit message: ${{ steps.get_commit.outputs.message }}
+        body: "
+          Это тестовый пуск комментария на появления коммита.
+          Commit message: ${{ steps.get_commit.outputs.message }}"
