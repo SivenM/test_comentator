@@ -8,3 +8,8 @@ def mul(a, b):
 
 
 a = 'asfdfaf'
+a = 'asfdfaf'
+a = 'asfdfaf'
+a = 'asfdfaf'
+a = 'asfdfaf'
+a = 'asfdfaf'
