@@ -5,3 +5,6 @@ def sum(a, b):
 
 def mul(a, b):
     return a * b
+
+
+a = 'asfdfaf'
