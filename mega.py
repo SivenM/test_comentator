@@ -79,3 +79,7 @@
 'test_rewiev_comment_text_2'
 'test_rewiev_comment_text_2'
 'test_rewiev_comment_text_2'
+'test_rewiev_comment_text_3'
+'test_rewiev_comment_text_3'
+'test_rewiev_comment_text_3'
+'test_rewiev_comment_text_3'
