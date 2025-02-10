@@ -66,3 +66,7 @@
 'test_rewiev_comment_text_1'
 'test_rewiev_comment_text_1'
 'test_rewiev_comment_text_1'
+'test_rewiev_comment_text_1'
+'test_rewiev_comment_text_2'
+'test_rewiev_comment_text_2'
+'test_rewiev_comment_text_2'
