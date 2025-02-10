@@ -91,3 +91,6 @@
 'test_rewiev_comment_text_4'
 'test_rewiev_comment_text_4'
 'test_rewiev_comment_text_4'
+'test_rewiev_comment_text_5'
+'test_rewiev_comment_text_5'
+'test_rewiev_comment_text_5'
