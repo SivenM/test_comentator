@@ -101,3 +101,4 @@
 'test_rewiev_comment_text_6'
 'test_rewiev_comment_text_6'
 'test_rewiev_comment_text_6'
+print(1)
