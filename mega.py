@@ -109,3 +109,8 @@ print(4)
 'asdasd'
 'asdasd'
 'asdasd'
+'petgnw[gunw[]]'
+'petgnw[gunw[]]'
+'petgnw[gunw[]]'
+'petgnw[gunw[]]'
+'petgnw[gunw[]]'
