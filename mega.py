@@ -164,3 +164,7 @@ print(4)
 'petgnw[gunw[]]'
 'petgnw[gunw[]]'
 'petgnw[gunw[]]'
+'petgnw[gunw[]]'
+'petgnw[gunw[]]'
+'petgnw[gunw[]]'
+'petgnw[gunw[]]'
