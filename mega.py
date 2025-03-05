@@ -151,15 +151,14 @@ def create_delta_day(self, commit_date, author_last_date):
             delta_day = 0.
         else:
             delta_day = self._create_delta(commit_date, author_last_date)
+petgnw[gunw[]]'
+'petgnw[gunw[]]''petgnw[gunw[]]'
+def create_delta_day(self, commit_date, author_last_date):
+        if author_last_date == None:
+            delta_day = 0.
+        else:
+            delta_day = self._create_delta(commit_date, author_last_date)
         return delta_day
-'petgnw[gunw[]]'
-'petgnw[gunw[]]'
-'petgnw[gunw[]]'
-'petgnw[gunw[]]'
-'petgnw[gunw[]]'
-'petgnw[gunw[]]'
-'petgnw[gunw[]]'
-'petgnw[gunw[]]'
 'petgnw[gunw[]]'
 'petgnw[gunw[]]'
 'petgnw[gunw[]]'
@@ -233,4 +232,16 @@ def create_delta_day(self, commit_date, author_last_date):
 
 def create_delta_day(self, commit_date, author_last_date):
     if author_last_date == None:
-        delta_day = 0
+        delta_day = 0petgnw[gunw[]]'
+'petgnw[gunw[]]''petgnw[gunw[]]'
+'petgnw[gunw[]]'
+'petgnw[gunwpetgnw[gunw[]]'
+'petgnw[gunw[]]''petgnw[gunw[]]'
+'petgnw[gunw[]]'
+'petgnw[gunwpetgnw[gunw[]]'
+'petgnw[gunw[]]''petgnw[gunw[]]'
+'petgnw[gunw[]]'
+'petgnw[gunwpetgnw[gunw[]]'
+'petgnw[gunw[]]''petgnw[gunw[]]'
+'petgnw[gunw[]]'
+'petgnw[gunw
