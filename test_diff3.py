@@ -30,5 +30,11 @@ def get_loss(clf, X, y):
         loss.append(log_loss(y, 1.0 / (1.0 + np.exp(-y_pred))))
 
     min_iter = np.argmin(loss)
-    min_loss = loss[min_iter]
-    return loss, min_iter, min_loss
+        plt.plot(train_loss, 'g', linewidth=2)
+    
+    plt.legend(['test', 'train'])
+    plt.show()
+        plt.plot(train_loss, 'g', linewidth=2)
+    
+    plt.legend(['test', 'train'])
+    plt.show()
