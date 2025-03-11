@@ -1,5 +1,9 @@
-import sys
-sys.path.append('.')
+'petgnw[gunw[]]''petgnw[gunw[]]'
+'petgnw[gunw[]]'
+def create_delta_day(se
+                     'petgnw[gunw[]]''petgnw[gunw[]]'
+'petgnw[gunw[]]'
+def create_delta_day(se
 from domain import messages
 from adapters.github_connect import GhConnector
 
